@@ -45,6 +45,10 @@ The shell application which combines and orchestrates the two microfrontends sho
 
 In this demo, 'shell' acts as the main container application for our two microfrontends 'one' and 'two'. Each microfrontend is a standalone application, and they are being stitched together in the shell. This is a basic example of how microfrontends enable us to break up a monolithic UI into simpler, smaller applications.
 
-It's exciting to explore the world of microfrontends, where smaller manageable teams can develop deploy and scale their respective features independently. Happy Coding!
+It's exciting to explore the world of microfrontends, where smaller manageable teams can develop deploy and scale their respective features independently. 
+
+
+Happy Coding! <br/>
+[My linkedIn profile - Siva Rajana](https://www.linkedin.com/in/siva-rajana/)
 
 
